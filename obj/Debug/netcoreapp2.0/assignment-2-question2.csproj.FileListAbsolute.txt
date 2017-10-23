@@ -1,0 +1,10 @@
+/Users/daynegame/Desktop/assignment-2-question2/bin/Debug/netcoreapp2.0/assignment-2-question2.deps.json
+/Users/daynegame/Desktop/assignment-2-question2/bin/Debug/netcoreapp2.0/assignment-2-question2.runtimeconfig.json
+/Users/daynegame/Desktop/assignment-2-question2/bin/Debug/netcoreapp2.0/assignment-2-question2.runtimeconfig.dev.json
+/Users/daynegame/Desktop/assignment-2-question2/bin/Debug/netcoreapp2.0/assignment-2-question2.dll
+/Users/daynegame/Desktop/assignment-2-question2/bin/Debug/netcoreapp2.0/assignment-2-question2.pdb
+/Users/daynegame/Desktop/assignment-2-question2/obj/Debug/netcoreapp2.0/assignment-2-question2.csproj.CoreCompileInputs.cache
+/Users/daynegame/Desktop/assignment-2-question2/obj/Debug/netcoreapp2.0/assignment-2-question2.AssemblyInfoInputs.cache
+/Users/daynegame/Desktop/assignment-2-question2/obj/Debug/netcoreapp2.0/assignment-2-question2.AssemblyInfo.cs
+/Users/daynegame/Desktop/assignment-2-question2/obj/Debug/netcoreapp2.0/assignment-2-question2.dll
+/Users/daynegame/Desktop/assignment-2-question2/obj/Debug/netcoreapp2.0/assignment-2-question2.pdb
