@@ -80,7 +80,7 @@ namespace assignment_2_question2
     {
         static void Main(string[] args)
         {
-            var FALCON = new FALCON("Mazda", "RX7", "1974", "hello", "bob");
+            var FALCON = new FALCON("Hisan", "NZ Falcon", "Male", "240grams", "H39878");
             
 
         }
