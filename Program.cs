@@ -80,8 +80,18 @@ namespace assignment_2_question2
     {
         static void Main(string[] args)
         {
-            var FALCON = new FALCON("Hisan", "NZ Falcon", "Male", "240grams", "H39878");
-            
+            Console.WriteLine("Enter Falcon Name:");
+            var falconname = Console.ReadLine();
+            Console.WriteLine("Enter Falcon Species:");
+            var falconspecies = Console.ReadLine();
+            Console.WriteLine("Enter Sex of Falcon");
+            var falconsex = Console.ReadLine();
+            Console.WriteLine("Enter Weight of Falcon:");
+            var falconweight = Console.ReadLine();
+            Console.WriteLine("Enter Band Number of Falcon:");
+            var bandnumber = Console.ReadLine();
+            var falcon = new FALCON(falconname, falconspecies, falconsex, falconweight, bandnumber);
+            Console.WriteLine(falcon.displayFalcon());
 
         }
     }
